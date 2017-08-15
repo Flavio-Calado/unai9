@@ -1,0 +1,30 @@
+#fundo{
+
+	background-color: #A4A4A4;
+}
+#corNav{
+	background-color: #424242;
+}
+
+p { 
+	color: #D6080F;
+	display:inline;
+}
+
+a:hover{
+	text-decoration: underline overline; 
+	color:#f00;
+}
+
+#corLetra{
+	color: #E6E6E6;
+	background-color: #424242;
+}
+#logo{
+
+	white-space: nowrap;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 40px;
+}
+
+	
