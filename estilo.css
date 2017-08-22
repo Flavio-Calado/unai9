@@ -6,6 +6,12 @@
 	background-color: #424242;
 }
 
+.marcador{  	
+	margin: 1em auto;  	
+	width: 90%;  	
+	background: #fff;  
+}
+
 p { 
 	color: #D6080F;
 	display:inline;
@@ -20,11 +26,67 @@ a:hover{
 	color: #E6E6E6;
 	background-color: #424242;
 }
-#logo{
+#logocabeçalho{
 
 	white-space: nowrap;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 40px;
 }
+
+#logomenu{
+
+	white-space: nowrap;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 80px;
+	text-align:center;
+}
+.textocentral{
+
+	position: center;
+}
+
+.conteudo{
+	width: 50%; 
+	padding-right: 2%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: red;
+}
+
+#imgConteudo{
+	margin-right: 5%;
+}
+
+#divRigth{
+
+	margin-right: 50%;
+	background: blue;
+
+
+}
+
+
+/* Tentativa de fazer a linha de navegação com um icone 
+
+#linhaNavegar{
+	position: relative;
+	left: 50%;
+	width: 400px;
+	height: 400px;
+	border-color: blue;
+	border-width: 6px;
+	border-left-style: dashed;
+}
+
+.iconeCenter{
+	vertical-align: middle;
+    display: inline-block;
+	position: center;
+	font-size: 40px;
+
+}
+
+/*
+
 
 	
